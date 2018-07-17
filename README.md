@@ -1,7 +1,7 @@
 # Face_recognition_OpenCV
 
 In this repository helpful to understand some of the key part of the face recognition technique of Opencv.
-This program is give result 86% accuratly.
+Accracy of this program is 86%.
 you can add and update the training data when you want at a time and train it and test it.
 
 
