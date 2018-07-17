@@ -7,8 +7,8 @@ you can add and update the training data when you want at a time and train it an
 
 # How to use it
 
-# simple steps i explain here below just perform it and you are successfully got the result
-  # Steps to download environment
+simple steps i explain here below just perform it and you are successfully got the result
+# Steps to setup environment
   # 1. you can download the opencv, numpy and pillow library of python
        ex : pip install [Library name] 
   # 2. downlaoad or clone the zip file from here 
@@ -22,6 +22,7 @@ you can add and update the training data when you want at a time and train it an
        ex: this is look like this but in #your case its diffrent address of project 
         face_detect=cv2.CascadeClassifier('C:/Users/Bond/Desktop/faceRec/testFace/cascades/data/haarcascade_frontalface_default.xml')
         
+# how to run 
   # 3. after that you can run the dataset file for updating the database
   # make dataset by below command
       1. python dataset.py
